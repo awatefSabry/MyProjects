@@ -10,6 +10,7 @@ cities = [
       'Mumbai',
       'Buenos Aires',
 ]
+print(cities[1])
 
 ##---------------
 ##Creating more complex collections
@@ -25,5 +26,5 @@ California_symbols = {
     'flower': 'California poppy',
     'fruit': 'Avocado',
 }
-
+print(California_symbols['flower'])
 
